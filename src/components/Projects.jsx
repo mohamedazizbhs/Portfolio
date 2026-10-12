@@ -74,7 +74,7 @@ const projects = [
 
     github: "https://github.com/hendzormati/2026_4ATechFacHum_ZORMATI_BELHAJSALAH.git",
     demo: null,
-    video: null,
+    video: "/videos/IQ.mp4",
     presentation: null,
   },
 
