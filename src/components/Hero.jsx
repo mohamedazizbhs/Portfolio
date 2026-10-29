@@ -90,7 +90,7 @@ function Hero() {
                   </a>
 
                   <a
-                    href="/CV_Aziz_Belhaj_Salah.pdf"
+                    href="/aziz_bhs_cv.pdf"
                     download
                     className="rounded-full border border-white/15 px-6 py-3 text-sm font-medium text-zinc-300 transition hover:border-white/40 hover:text-white"
                   >

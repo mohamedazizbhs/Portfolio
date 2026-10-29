@@ -104,7 +104,7 @@ function Contact() {
               </a>
 
               <a
-                href="/CV_Aziz_Belhaj_Salah.pdf"
+                href="/aziz_bhs_cv.pdf"
                 download
                 className="group flex items-center gap-3 transition hover:text-[#A78BFA]"
               >
